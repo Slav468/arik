@@ -1,0 +1,1 @@
+@media (width <= 20em){.page_about{padding-block-end:2.5rem;padding-block-start:3.75rem}}@media (width > 20em) and (width <= 90em){.page_about{padding-block-end:clamp(2.5rem,1.7857142857125rem + 3.5714285714vw,5rem);padding-block-start:clamp(3.75rem,3.0357142857125rem + 3.5714285714vw,6.25rem)}}@media (width > 90em){.page_about{padding-block-end:5rem;padding-block-start:6.25rem}}
